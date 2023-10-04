@@ -2,9 +2,9 @@
 
 [Жива сторінка](https://clear-water.vercel.app/uk)
 
-![Десктопний варіант](./public/images/screenshots/hero-desk.jpg)
-![Планшетний варіант](./public/images/screenshots/hero-tab.jpg)
-![Мобільний варіант](./public/images/screenshots/hero-mob.jpg)
+![Десктопний варіант](./public/hero-desk.jpg)
+![Планшетний варіант](./public/hero-tab.jpg)
+![Мобільний варіант](./public/hero-mob.jpg)
 
 ## Опис Проєкту
 
